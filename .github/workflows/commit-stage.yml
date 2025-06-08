@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: polarbookshop/config-service
+  IMAGE_NAME: woo-0/config-service
   VERSION: latest
 
 jobs:
